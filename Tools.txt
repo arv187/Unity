@@ -3,6 +3,7 @@
 	//autodesk
 	https://charactergenerator.autodesk.com
 
-	//Mixamo online & desktop
+	//Mixamo online & desktop, plug-in adobe-fuse-fixes-materials
 	https://www.mixamo.com/
 	https://store.steampowered.com/app/257400/
+	https://forum.unity.com/threads/script-for-importing-adobe-fuse-character-model-into-unity-fixes-materials.482093/
