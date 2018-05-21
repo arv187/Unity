@@ -1,0 +1,8 @@
+//CHARACTERS GENERATORS
+
+	//autodesk
+	https://charactergenerator.autodesk.com
+
+	//Mixamo online & desktop
+	https://www.mixamo.com/
+	https://store.steampowered.com/app/257400/

@@ -1,0 +1,11 @@
+//CHARACTER CONTROLLER
+
+	//BurgZerg Arcade
+	https://www.youtube.com/watch?v=k12w-rEbuXI&t=118s&index=20&list=WL //RPG Character Controller Cap.01->12 Unity 5 Root Motion
+	https://www.youtube.com/watch?v=UOwEsPUHJ7s //RPG Character Controller Cap.13 - Unity 5 Root Motion
+	
+	//Hagamos videojuegos
+	https://www.youtube.com/channel/UCBhkLrsmV9PVQMpT3qe-toA
+	
+	//3dbuzz
+	https://www.3dbuzz.com/training/topic/unity?resetFilters=True
