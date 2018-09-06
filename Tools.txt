@@ -12,6 +12,7 @@
 	//scripting visual
 	https://assetstore.unity.com/packages/tools/utilities/blueprints-45315
 	https://assetstore.unity.com/packages/tools/visual-scripting/playmaker-368
+	https://assetstore.unity.com/packages/templates/systems/game-creator-89443
 	https://assetstore.unity.com/packages/tools/visual-scripting/bolt-87491
 	
 	
